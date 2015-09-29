@@ -1,3 +1,3 @@
 # IncentivesWidget
 
-Loads of fun
+Loads of fun!
